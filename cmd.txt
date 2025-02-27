@@ -1,0 +1,9 @@
+
+nano ~/Library/LaunchAgents/com.alcopa.saver.plist
+
+launchctl load ~/Library/LaunchAgents/com.alcopa.saver.plist
+
+launchctl list | grep alcopa
+
+launchctl unload ~/Library/LaunchAgents/com.alcopa.saver.plist
+
