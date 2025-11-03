@@ -7,3 +7,9 @@ launchctl list | grep alcopa
 
 launchctl unload ~/Library/LaunchAgents/com.alcopa.saver.plist
 
+
+
+
+
+nano /Users/dionis/Project/Python/AlcopaLaunchAgents/com.alcopa.saver.plist
+launchctl load /Users/dionis/Project/Python/AlcopaLaunchAgents/com.alcopa.saver.plist
