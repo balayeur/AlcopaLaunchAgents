@@ -1,3 +1,5 @@
 /AuctionsList
 /GeneralList
 /.venv
+.DS_Store
+/mnt
