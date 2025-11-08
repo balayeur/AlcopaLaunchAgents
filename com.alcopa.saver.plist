@@ -20,9 +20,9 @@
     </dict>
 
     <key>StandardOutPath</key>
-    <string>/Users/dionis/Project/Python/AlcopaLaunchAgents/alcopa_log.txt</string>
+    <string>/Users/dionis/Project/Python/AlcopaLaunchAgents/mnt/Log/alcopa_log.txt</string>
 
     <key>StandardErrorPath</key>
-    <string>/Users/dionis/Project/Python/AlcopaLaunchAgents/alcopa_error.txt</string>
+    <string>/Users/dionis/Project/Python/AlcopaLaunchAgents/mnt/Log/alcopa_error.txt</string>
   </dict>
 </plist>
