@@ -25,8 +25,8 @@ def save_webpage(url, save_dir, prefix):
 
 # Définition des URLs et des dossiers de sauvegarde
 pages = [
-    ("https://www.alcopa-auction.fr/",          "AuctionsList", "auctionsList"),
-    ("https://www.alcopa-auction.fr/recherche", "GeneralList",  "generalList")
+    ("https://www.alcopa-auction.fr/",          "AuctionsList", "auctionsList")
+    # ("https://www.alcopa-auction.fr/recherche", "GeneralList",  "generalList")
 ]
 
 # Traitement des pages
